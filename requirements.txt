@@ -1,0 +1,6 @@
+numpy==1.24.4
+pandas==1.5.3
+pickle5==0.0.11
+scikit-learn==1.0.2
+xgboost==1.5.2
+boto3==1.28.84
